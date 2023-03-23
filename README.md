@@ -1,4 +1,4 @@
-![logo](https://github.com/Gayu66/Gayu66/blob/main/WhatsApp%20Image%202023-03-24%20at%201.02.22%20AM.jpeg)
+![logo](https://github.com/Gayu66/Gayu66/blob/main/WhatsApp%20Image%202023-03-24%20at%201.05.37%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Gayatri Patekari</h1>
 <h3 align="center">A passionate Analyst from India</h3>
 
